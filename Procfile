@@ -1,1 +1,1 @@
-web: gunicorn streaming_app.wsgi:app
+web: gunicorn streaming_app.wsgi:application
